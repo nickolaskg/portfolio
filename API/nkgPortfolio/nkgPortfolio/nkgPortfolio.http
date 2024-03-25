@@ -1,0 +1,6 @@
+@nkgPortfolio_HostAddress = http://localhost:5119
+
+GET {{nkgPortfolio_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
